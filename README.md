@@ -1,6 +1,10 @@
-# VSAIL - User Registration, Login and Profile System
+# User Registration, Login and Profile System
 
-This is a user authentication system I built using PHP, MySQL, MongoDB, and Redis. The project allows users to register, login, and manage their profile.
+This is a user authentication system built using PHP, MySQL, MongoDB, and Redis. The project allows users to register, login, and manage their profile.
+
+## Demo Video
+
+Watch the working demo here: https://drive.google.com/drive/folders/1jcFiGq0ofruoaF011rWDVApbvxUq9H5_?usp=sharing
 
 ## Tech Stack
 
